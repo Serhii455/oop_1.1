@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\НУ Львівська Політехніка\ООП\Лабораторні\Лабораторна 1\Lab_1.1\Lab_1.1\Triangle.cpp(59,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+D:\НУ Львівська Політехніка\ООП\Лабораторні\Лабораторна 1\Lab_1.1\Lab_1.1\Triangle.cpp(60,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+     Creating library D:\НУ Львівська Політехніка\ООП\Лабораторні\Лабораторна 1\Lab_1.1\x64\Debug\UnitTest1.lib and object D:\НУ Львівська Політехніка\ООП\Лабораторні\Лабораторна 1\Lab_1.1\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\НУ Львівська Політехніка\ООП\Лабораторні\Лабораторна 1\Lab_1.1\x64\Debug\UnitTest1.dll
